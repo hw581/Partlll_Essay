@@ -1,5 +1,6 @@
 # Partlll_Essay
 These are codes for Part lll Essay "Convex formulation of Neural Networks with finite width"
+
 Purpose: Compare the minimized value for the objective function of a 2-layer ReLU network via different methods (Convex formulation vs Gradient Descent)
 
 conv_fixed.ipynb : fixed design, convex formulation
