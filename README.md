@@ -5,3 +5,4 @@ conv_fixed.ipynb : fixed design, convex formulation
 
 SGD_fixed.ipynb  : fixed design, stochastic gradient descent (SGD)
 
+GD_fixed.ipynb  : fixed design, gradient descent (GD)
