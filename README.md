@@ -1,5 +1,5 @@
 # Partlll_Essay
-These are codes for my Part lll Essay "Convex formulation of Neural Networks with finite width"
+These are codes for my Part lll Essay about convex formulation of neural networks 
 
 # Aim
 Compare the minimized value for the objective function of a 2-layer ReLU network via different methods (Convex formulation vs Gradient Descent)
