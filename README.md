@@ -19,4 +19,4 @@ conv_rand.ipynb : random design, convex formulation
 
 SGD_rand.ipynb : random design, SGD
 
-conv_SGD_rand.ipynb : random design, convex formulation and SGD
+conv_SGD_rand.ipynb : random design, convex formulation and SGD (Visualisation of learning process)
